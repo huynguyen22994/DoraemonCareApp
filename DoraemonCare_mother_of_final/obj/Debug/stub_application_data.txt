@@ -1,0 +1,2 @@
+android.app.Application
+DoraemonCare_mother_of_final.DoraemonCare_mother_of_final

@@ -99,6 +99,8 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "DoraemonCare_mother_of_final.dll" comes first in this list. */
 		"DoraemonCare_mother_of_final.dll",
+		"Newtonsoft.Json.dll",
+		"RestSharp.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

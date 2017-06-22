@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="DoraemonCare_mother_of_final.DoraemonCare_mother_of_final" android:versionCode="1" android:versionName="1.0">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="DoraemonCare_mother_of_final.DoraemonCare_mother_of_final" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="16" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <application android:label="DoraemonCare_mother_of_final" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+  <application android:label="DoraemonCare_mother_of_final" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="ChanDoanBenhActivity" android:name="md54ec764bdb5235a0b78fe6b118f6907b9.ChanDoanBenhActivity" />
     <activity android:icon="@drawable/icon" android:label="Doraemon Care" android:name="md54ec764bdb5235a0b78fe6b118f6907b9.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

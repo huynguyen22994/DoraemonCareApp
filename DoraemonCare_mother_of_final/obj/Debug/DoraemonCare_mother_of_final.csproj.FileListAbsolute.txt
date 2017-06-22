@@ -43,4 +43,53 @@ c:\users\ducpham\documents\visual studio 2017\Projects\DoraemonCare_mother_of_fi
 c:\users\ducpham\documents\visual studio 2017\Projects\DoraemonCare_mother_of_final\DoraemonCare_mother_of_final\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 c:\users\ducpham\documents\visual studio 2017\Projects\DoraemonCare_mother_of_final\DoraemonCare_mother_of_final\obj\Debug\DoraemonCare_mother_of_final.csprojResolveAssemblyReference.cache
 c:\users\ducpham\documents\visual studio 2017\Projects\DoraemonCare_mother_of_final\DoraemonCare_mother_of_final\obj\Debug\DoraemonCare_mother_of_final.dll.mdb
-c:\users\ducpham\documents\visual studio 2017\Projects\DoraemonCare_mother_of_final\DoraemonCare_mother_of_final\bin\Debug\DoraemonCare_mother_of_final.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\DoraemonCare_mother_of_final.dll
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\DoraemonCare_mother_of_final.pdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\DoraemonCare_mother_of_final.DoraemonCare_mother_of_final.apk
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\DoraemonCare_mother_of_final.DoraemonCare_mother_of_final-Signed.apk
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\DoraemonCare_mother_of_final.csprojResolveAssemblyReference.cache
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\DoraemonCare_mother_of_final.dll
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\DoraemonCare_mother_of_final.pdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\bin\DoraemonCare_mother_of_final.DoraemonCare_mother_of_final.apk
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\res\layout\page1.xml
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\res\layout\main.xml
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\res\values\strings.xml
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\res\drawable\icon.png
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\res\drawable\giua.jpg
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\R.cs.flag
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\uploadflags.txt
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\DoraemonCare_mother_of_final.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\mscorlib.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\System.Core.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\System.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\System.Json.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\System.Xml.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\DoraemonCare_mother_of_final.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\System.Json.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\obj\Debug\res\layout\listview.xml
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\RestSharp.dll
+C:\Users\Test\Source\Repos\DoraemonCareApp\DoraemonCare_mother_of_final\bin\Debug\RestSharp.xml

@@ -2,4 +2,6 @@
 <resources>
     <string name="Hello">Hello World, Click Me!</string>
     <string name="ApplicationName">DoraemonCare_mother_of_final</string>
+    <string name="Button_Tracuu">Tra Cứu Triệu Chứng</string>
+    <string name="Button_Chandoan">Chẩn Đoán Bệnh</string>
 </resources>

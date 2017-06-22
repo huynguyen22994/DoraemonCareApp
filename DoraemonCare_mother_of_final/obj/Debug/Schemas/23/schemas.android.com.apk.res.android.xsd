@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>6/20/2017 8:27:51 PM</xs:documentation>
+    <xs:documentation>22-Jun-17 4:26:40 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -3612,6 +3612,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -3653,6 +3655,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -4262,6 +4266,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -4791,6 +4797,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -5870,6 +5878,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -6162,6 +6172,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -10875,6 +10887,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -10916,6 +10930,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -11485,6 +11501,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -11526,6 +11544,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -11567,6 +11587,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -16623,6 +16645,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -16761,7 +16785,10 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@+id/" />
             <xs:enumeration value="@+id/checkBox1" />
+            <xs:enumeration value="@id/abc" />
+            <xs:enumeration value="@id/benhListView" />
             <xs:enumeration value="@id/Button_Chandoan" />
+            <xs:enumeration value="@id/Button_Chandoanbenh" />
             <xs:enumeration value="@id/Button_Tracuu" />
             <xs:enumeration value="@id/condSection" />
             <xs:enumeration value="@id/getSection" />
@@ -16770,6 +16797,9 @@
             <xs:enumeration value="@id/locSection" />
             <xs:enumeration value="@id/longSection" />
             <xs:enumeration value="@id/tempSection" />
+            <xs:enumeration value="@id/trieuchungLabel" />
+            <xs:enumeration value="@id/trieuchungText" />
+            <xs:enumeration value="@id/txtName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
@@ -17098,6 +17128,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -18318,6 +18350,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -20783,6 +20817,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -20981,6 +21017,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -21236,6 +21274,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -21931,6 +21971,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -23839,6 +23881,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -25766,6 +25810,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -26750,6 +26796,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -30157,6 +30205,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -31424,6 +31474,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -32598,6 +32650,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -34260,6 +34314,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -34301,6 +34357,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -37410,6 +37468,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -37451,6 +37511,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -39586,6 +39648,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -39730,6 +39794,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
@@ -40858,6 +40924,8 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
+            <xs:enumeration value="@string/Button_Chandoan" />
+            <xs:enumeration value="@string/Button_Tracuu" />
             <xs:enumeration value="@string/Hello" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />

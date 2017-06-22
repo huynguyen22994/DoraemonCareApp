@@ -31,18 +31,24 @@
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="Chẩn Đoán Bệnh"
+            android:text="@string/Button_Chandoan"
             android:backgroundTint="#ff7fffd4"
             android:textColor="@android:color/darker_gray" />
-      <Button
+        <Button
             android:id="@+id/Button_Tracuu"
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="Tra Cứu Triệu Chứng"
+            android:text="@string/Button_Tracuu"
             android:backgroundTint="#ff7fffd4"
-            android:textColor="@android:color/darker_gray" /> 
+            android:textColor="@android:color/darker_gray" />
+        <ListView
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/abc" />
     </LinearLayout>
     <LinearLayout
         android:orientation="horizontal"
